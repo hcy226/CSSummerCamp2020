@@ -2,8 +2,9 @@
 关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？
 
 # 清华大学
-【2020年4月20日至5月21日24点】[清华大学交叉信息研究院优秀大学生夏令营]https://admission.iiis.tsinghua.edu.cn/2020/contact.php
-[清华大学自动化系智能与网络化系统研究中心招生夏令营]https://www.wjx.cn/m/64524902.aspx
+【2020年4月20日至5月21日24点】[清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2020/contact.php)
+
+[清华大学自动化系智能与网络化系统研究中心招生夏令营](https://www.wjx.cn/m/64524902.aspx)
 
 # 北京大学
 

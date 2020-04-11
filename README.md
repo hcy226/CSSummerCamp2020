@@ -3,9 +3,9 @@
 
 
 # 清华大学
-【2020年4月20日至5月21日24点】[清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2020/contact.php)
+【4月20日至5月21日24点】[清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2020/contact.php)
 
-【2020年4月线上举行】[清华大学自动化系智能与网络化系统研究中心招生夏令营](https://www.wjx.cn/m/64524902.aspx)
+【4月15日截止】[清华大学自动化系智能与网络化系统研究中心招生夏令营](http://cfins.au.tsinghua.edu.cn/cn/admission/index.php)
 
 # 北京大学
 

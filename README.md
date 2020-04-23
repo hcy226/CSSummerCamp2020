@@ -10,6 +10,8 @@
 【即日起至2020年5月31日上午12:00】[清华-伯克利深圳学院2020年暑期夏令营招募通知](https://www.tbsi.edu.cn/index.php?s=/cms/index/detail/id/1398.html)
 # 北京大学
 
+【即日起至6月15日00：00】[北京大学前沿交叉学科研究院关于举办2020年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=976)
+
 # 上海交通大学
 
 # 浙江大学

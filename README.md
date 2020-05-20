@@ -26,7 +26,7 @@
 
 # 中国科学技术大学
 
-【截止6月30日】[先进技术研究院](https://iat.ustc.edu.cn/new_notice/2416.html)
+【截止6月30日】[中国科学技术大学先进技术研究院第一届创新应用夏令营报名通知](https://iat.ustc.edu.cn/new_notice/2416.html)
 
 # 中国人民大学
 

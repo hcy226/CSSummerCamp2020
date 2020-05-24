@@ -3,7 +3,7 @@
 
 
 # 清华大学
-~~【报名截止】[清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2020/contact.php)
+~~【报名截止】[清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2020/contact.php)~~
 
 ~~【报名截止】[清华大学自动化系智能与网络化系统研究中心招生夏令营](https://www.wjx.cn/m/64524902.aspx)~~
 

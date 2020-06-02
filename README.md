@@ -22,6 +22,7 @@
 
 # 复旦大学
 【即日起6月20日晚24：00】[复旦大学类脑智能科学与技术研究院2020年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/NQdLEsVdG2cUzLfDwZadZg)
+
 【6月5日至6月25日】[2020年大数据学院全国优秀大学生夏令营活动方案](https://sds.fudan.edu.cn/99/77/c17701a235895/page.htm)
 
 # 南京大学

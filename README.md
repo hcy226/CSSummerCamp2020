@@ -7,7 +7,7 @@
 
 ~~【报名截止】[清华大学自动化系智能与网络化系统研究中心招生夏令营](https://www.wjx.cn/m/64524902.aspx)~~
 
-【即日起至2020年5月31日上午12:00】[清华-伯克利深圳学院2020年暑期夏令营招募通知](https://www.tbsi.edu.cn/index.php?s=/cms/index/detail/id/1398.html)
+~~【报名截止】[清华-伯克利深圳学院2020年暑期夏令营招募通知](https://www.tbsi.edu.cn/index.php?s=/cms/index/detail/id/1398.html)~~
 
 【即日起至6月5日】[关于举办清华大学第三届（2020年）全国优秀大学生“计算法学”主题夏令营的公告](http://www.law.tsinghua.edu.cn/publish/law/3568/2020/20200515164740201892816/20200515164740201892816_.html)
 # 北京大学
@@ -22,6 +22,7 @@
 
 # 复旦大学
 【即日起6月20日晚24：00】[复旦大学类脑智能科学与技术研究院2020年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/NQdLEsVdG2cUzLfDwZadZg)
+【6月5日至6月25日】[2020年大数据学院全国优秀大学生夏令营活动方案](https://sds.fudan.edu.cn/99/77/c17701a235895/page.htm)
 
 # 南京大学
 

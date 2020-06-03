@@ -31,6 +31,8 @@
 # 中国科学院大学
 【截止时间待定】[中国科学院自动化研究所“人工智能”大学生暑期学校2020年招生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202005/t20200525_5585618.html)
 
+【即日起6月30日】[2020年中国科学院大学沈阳计算所大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=136)
+
 # 中国科学技术大学
 
 【即日起至6月30日】[中国科学技术大学先进技术研究院第一届创新应用夏令营报名通知](https://iat.ustc.edu.cn/new_notice/2416.html)
@@ -57,7 +59,11 @@
 【即日起至6月24日】[关于举办 2020年南开大学“活力软件”优秀大学生夏令营的通知](http://cs.nankai.edu.cn/info/1042/2717.htm)
 
 
-#华东师范大学
+
+# 华东师范大学
 【即日起至6月19日】[华东师范大学计算机科学与技术学院优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2020052620140156171650)
 
 【即日起至6月20日】[华东师范大学可信人工智能优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2020052920160157105925)
+
+
+# 

@@ -55,3 +55,9 @@
 【截止时间待定】[2020年南开大学网络空间安全学院接收推免生招生宣传](https://cc.nankai.edu.cn/2020/0526/c13297a274428/page.htm)
 
 【即日起至6月24日】[关于举办 2020年南开大学“活力软件”优秀大学生夏令营的通知](http://cs.nankai.edu.cn/info/1042/2717.htm)
+
+
+#华东师范大学
+【即日起至6月19日】[华东师范大学计算机科学与技术学院优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2020052620140156171650)
+
+【即日起至6月20日】[华东师范大学可信人工智能优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2020052920160157105925)

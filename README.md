@@ -40,15 +40,18 @@
 
 【即日起6月30日】[2020年中国科学院大学沈阳计算所大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=136)
 
+【即日起至6月20日】[中科院计算所“计算未来”全国大学生计算技术暑期研修班预报名通知](http://www.ict.ac.cn/shye/tzgg/202006/t20200605_5602745.html)
+
 # 中国科学技术大学
 
 【即日起至6月30日】[中国科学技术大学先进技术研究院第一届创新应用夏令营报名通知](https://iat.ustc.edu.cn/new_notice/2416.html)
-【即日起至6月20日】[中科院计算所“计算未来”全国大学生计算技术暑期研修班预报名通知](http://www.ict.ac.cn/shye/tzgg/202006/t20200605_5602745.html)
 
 【即日起至6月30日】[2020年第三届大数据科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=727)
 
 # 中国人民大学
 【即日起至6月26日12:00】[中国人民大学信息学院“2020年优秀大学生线上夏令营”招生简章](https://mp.weixin.qq.com/s/CfWs2cLRZp44TAMTQkAlEg)
+
+【即日起至7月5日12:00】[中国人民大学高瓴人工智能学院2020年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20200604001.html)
 
 # 北京航空航天大学
 

@@ -28,7 +28,7 @@
 【即日起至6月22日24点】[2020年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/9a/36/c13543a236086/page.htm)
 
 
-【6月8日至6月20日】[2020年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/M03lw2cFRdsAnlIwmnsaig)
+【即日起至6月20日】[2020年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/M03lw2cFRdsAnlIwmnsaig)
 
 # 南京大学
 【即日起至6月25日】[南京大学计算机科学与技术系暨人工智能学院2020年本科生开放日报名通知](https://cs.nju.edu.cn/55/67/c1654a480615/page.htm)
@@ -38,7 +38,7 @@
 # 中国科学院大学
 【截止时间待定】[中国科学院自动化研究所“人工智能”大学生暑期学校2020年招生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202005/t20200525_5585618.html)
 
-【即日起6月30日】[2020年中国科学院大学沈阳计算所大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=136)
+【即日起至6月30日】[2020年中国科学院大学沈阳计算所大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=136)
 
 【即日起至6月20日】[中科院计算所“计算未来”全国大学生计算技术暑期研修班预报名通知](http://www.ict.ac.cn/shye/tzgg/202006/t20200605_5602745.html)
 

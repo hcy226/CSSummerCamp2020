@@ -42,6 +42,8 @@
 
 【即日起至6月20日】[中科院计算所“计算未来”全国大学生计算技术暑期研修班预报名通知](http://www.ict.ac.cn/shye/tzgg/202006/t20200605_5602745.html)
 
+【即日起至6月25日】[中国科学院信息工程研究所2020年“网络空间安全技术”全国优秀大学生夏令营报名通知](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/202006/t20200608_5603225.html?from=timeline&isappinstalled=0)
+
 # 中国科学技术大学
 
 【即日起至6月30日】[中国科学技术大学先进技术研究院第一届创新应用夏令营报名通知](https://iat.ustc.edu.cn/new_notice/2416.html)

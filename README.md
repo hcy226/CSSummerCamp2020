@@ -10,6 +10,11 @@
 ~~【报名截止】[清华-伯克利深圳学院2020年暑期夏令营招募通知](https://www.tbsi.edu.cn/index.php?s=/cms/index/detail/id/1398.html)~~
 
 ~~【报名截止】[关于举办清华大学第三届（2020年）全国优秀大学生“计算法学”主题夏令营的公告](http://www.law.tsinghua.edu.cn/publish/law/3568/2020/20200515164740201892816/20200515164740201892816_.html)~~
+
+【6月15日至7月1日】[清华大学深圳国际研究生院2020年电子信息（互动媒体设计与技术）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114831.jhtml)
+
+【6月15日7:00-29日23:00】[清华大学深圳国际研究生院2020年电子信息（大数据工程）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114832.jhtml)
+
 # 北京大学
 
 【即日起至6月15日00：00】[北京大学前沿交叉学科研究院关于举办2020年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=976)
@@ -106,3 +111,8 @@
 
 # 四川大学
 【截止时间待定】[四川大学2020年优秀大学生暑期夏令营即将拉开序幕](https://yz.scu.edu.cn/zsxx/Details/8f57f3ea-ce28-4657-a137-4fbab52615e6)
+
+# 北京师范大学
+【即日起至6月30日】[北京师范大学人工智能学院 2020年优秀大学生夏令营](https://cist.bnu.edu.cn/xyxw/95741.html)
+
+

@@ -13,7 +13,9 @@
 
 【6月15日至7月1日】[清华大学深圳国际研究生院2020年电子信息（互动媒体设计与技术）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114831.jhtml)
 
-【6月15日7:00-29日23:00】[清华大学深圳国际研究生院2020年电子信息（大数据工程）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114832.jhtml)
+【6月15日7:00至6月29日23:00】[清华大学深圳国际研究生院2020年电子信息（大数据工程）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114832.jhtml)
+
+【6月15日00:00至7月1日24:00】[清华大学深圳国际研究生院2020年电子与通信工程项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114862.jhtml?from=timeline&isappinstalled=0)
 
 # 北京大学
 

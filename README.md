@@ -28,7 +28,7 @@
 
 2021级研究生优秀生源选拔及夏令营通知](http://yjwb.seiee.sjtu.edu.cn/yjwb/info/16773.htm)
 
-【即日起至6月28日】[上海交通大学“2020软件学院优才夏令营”的通知]()
+【即日起至6月28日】[上海交通大学“2020软件学院优才夏令营”的通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=15207)
 
 # 浙江大学
 【即日起至6月28日】[浙江大学信息与电子工程学院2020年全国优秀大学生暑期学术夏令营活动通知](http://www.isee.zju.edu.cn/2020/0608/c21124a2149269/page.htm)

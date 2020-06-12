@@ -24,9 +24,7 @@
 # 上海交通大学
 【即日起至6月25日23:59】[上海交通大学密西根学院 2021年研究生招生夏令营报名通知](http://umji.sjtu.edu.cn/cn/news/2020-0605-1547/)
 
-【即日起至7月6日】[上海交通大学电子信息与电气工程学院
-
-2021级研究生优秀生源选拔及夏令营通知](http://yjwb.seiee.sjtu.edu.cn/yjwb/info/16773.htm)
+【即日起至7月6日】[上海交通大学电子信息与电气工程学院2021级研究生优秀生源选拔及夏令营通知](http://yjwb.seiee.sjtu.edu.cn/yjwb/info/16773.htm)
 
 【即日起至6月28日】[上海交通大学“2020软件学院优才夏令营”的通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=15207)
 

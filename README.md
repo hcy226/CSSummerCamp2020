@@ -145,3 +145,10 @@
 
 # 吉林大学
 【即日起至6月21日】[人工智能学院关于举办2020年优秀大学生夏令营的通知](http://sai.jlu.edu.cn/info/1065/1593.htm)
+
+# 天津大学
+【即日起至6月28日】[天津大学智能与计算学部2021级研究生招生夏令营活动通知](http://cic.tju.edu.cn/info/1041/2894.htm)
+
+# 中南大学
+【6月15日至6月30日】[关于举办“中南大学2021年优秀大学生提前面试”活动的通知](http://gra.csu.edu.cn/wjtzxq117870_1_2.html?from=groupmessage&isappinstalled=0)
+

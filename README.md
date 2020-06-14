@@ -17,6 +17,8 @@
 
 【6月15日00:00至7月1日24:00】[清华大学深圳国际研究生院2020年电子与通信工程项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114862.jhtml?from=timeline&isappinstalled=0)
 
+【即日起至6月30日24点】[清华大学深圳国际研究生院2020年人工智能项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114864.jhtml)
+
 # 北京大学
 
 【即日起至6月15日00：00】[北京大学前沿交叉学科研究院关于举办2020年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=976)
@@ -151,4 +153,7 @@
 
 # 中南大学
 【6月15日至6月30日】[关于举办“中南大学2021年优秀大学生提前面试”活动的通知](http://gra.csu.edu.cn/wjtzxq117870_1_2.html?from=groupmessage&isappinstalled=0)
+
+# 东华大学
+【即日起至6月28日24点】[东华大学信息科学与技术学院2020年全国优秀大学生夏令营活动通知](http://web.dhu.edu.cn/cist/b1/5f/c3004a242015/page.htm)
 

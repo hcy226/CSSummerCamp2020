@@ -131,7 +131,7 @@
 
 【即日起至6月26日】[关于网络空间安全学院（研究院）举办2020年全国优秀大学生暑期夏令营活动的通知](http://www.cst.qd.sdu.edu.cn/info/1018/2053.htm)
 
-【6月15日-7月6日】[山东大学机电与信息工程学院2020年全国优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/cJf-VwfAiMjejWPZ_nm12g)
+【6月15日至7月6日】[山东大学机电与信息工程学院2020年全国优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/cJf-VwfAiMjejWPZ_nm12g)
 
 
 # 北京师范大学

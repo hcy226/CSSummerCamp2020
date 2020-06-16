@@ -19,6 +19,8 @@
 
 【即日起至6月30日24点】[清华大学深圳国际研究生院2020年人工智能项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114864.jhtml)
 
+【即日起至6月28日23:00】[清华大学深圳国际研究生院2020年计算机学科优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114882.jhtml)
+
 # 北京大学
 
 ~~【报名截止】[北京大学前沿交叉学科研究院关于举办2020年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=976)~~

@@ -86,6 +86,8 @@
 
 【即日起至6月30日】[2020年第三届大数据科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=727)
 
+【即日起至6月29日】[2020年第七届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=713)
+
 # 中国人民大学
 【即日起至6月26日12:00】[中国人民大学信息学院“2020年优秀大学生线上夏令营”招生简章](https://mp.weixin.qq.com/s/CfWs2cLRZp44TAMTQkAlEg)
 

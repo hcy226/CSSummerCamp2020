@@ -176,3 +176,7 @@
 
 # 中国海洋大学
 【即日起至6月28日】[关于举办2020年大学生夏令营活动的通知](http://it.ouc.edu.cn/2020/0616/c16066a290635/page.htm)
+
+
+查看更多保研信息、讲座咨讯:
+![](https://imgkr.cn-bj.ufileos.com/3ffd84fe-ce0d-411c-856b-e9ef4512dc08.png)

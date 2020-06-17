@@ -179,4 +179,4 @@
 
 
 查看更多保研信息与干货分享，请关注公众号:
-![](https://imgkr.cn-bj.ufileos.com/3ffd84fe-ce0d-411c-856b-e9ef4512dc08.png)
+![](https://s1.ax1x.com/2020/06/17/NA78XQ.png)

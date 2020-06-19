@@ -84,6 +84,8 @@
 
 【即日起至7月10日】[中科院上海高等研究院2020年大学生暑假夏令营活动通知](http://119.78.243.182/web/contentList.html?type=sszs&firstMenu=zssz&nsukey=nNSUWUo7renqGEFrATSN4k%2BZKNqImJmD5IIBTtX3OLR3wr1bmBG1OXwcslMAIJhdKjTaS4u0vLdoQDCwHWLwo9T6bcDMxeG9z9YJSapirbySlMQ4WjBR7UuyKCIXMZL3rG2BsnNICERUCy9CMDIL1MmHTgzo5dZHQvJ0Q8N2t3w%3D)
 
+【截止时间待定】[中国科学院深圳先进技术研究院 2020 年大学生学术夏令营招生简章](http://www.siat.ac.cn/yjsjy2016/zsjs2016/202006/P020200616637848539860.pdf)
+
 # 中国科学技术大学
 
 【即日起至6月30日】[中国科学技术大学先进技术研究院第一届创新应用夏令营报名通知](https://iat.ustc.edu.cn/new_notice/2416.html)
@@ -196,6 +198,10 @@
 
 # 厦门大学
 【即日起至6月30日】[信息学院2020年暑期夏令营报名指南](https://information.xmu.edu.cn/info/1050/15364.htm)
+
+# 南京邮电大学
+【即日起至7月20日】[关于举办2020 年江苏省研究生“智慧物联网与网络空间安全”暑期学校的通知](http://pg.njupt.edu.cn/2020/0619/c1049a167245/page.htm)
+
 
 ### 查看更多保研信息与干货分享，请关注公众号--CS引路人:
 ![](https://s1.ax1x.com/2020/06/17/NA78XQ.png)

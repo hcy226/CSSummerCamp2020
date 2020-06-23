@@ -104,6 +104,8 @@
 # 武汉大学
 【即日起至7月3日】[武汉大学测绘遥感信息工程国家重点实验室 2020年优秀大学生暑期夏令营活动](http://www.lmars.whu.edu.cn/index.php/zxdf/2882.html)
 
+【即日起至7月3日】[武汉大学计算机学院2020年优秀大学生线上夏令营实施细则](http://cs.whu.edu.cn/news_show.aspx?id=1295)
+
 # 西湖大学
 【即日起至7月5日24:00】[西湖大学2020年夏令营公告](https://www.westlake.edu.cn/info/1065/4741.htm)
 
@@ -175,8 +177,9 @@
 【即日起至6月26日24:00】[中山大学数据科学与计算机学院2020年优秀大学生夏令营活动报名通知](http://sdcs.sysu.edu.cn/content/5321)
 
 # 吉林大学
-【即日起至6月21日】[人工智能学院关于举办2020年优秀大学生夏令营的通知](http://sai.jlu.edu.cn/info/1065/1593.htm)
+~~【报名截止】[人工智能学院关于举办2020年优秀大学生夏令营的通知](http://sai.jlu.edu.cn/info/1065/1593.htm)~~
 
+【即日起至6月29日】[2020年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1092/11847.htm)
 
 # 中南大学
 【即日起至6月30日】[关于举办“中南大学2021年优秀大学生提前面试”活动的通知](http://gra.csu.edu.cn/wjtzxq117870_1_2.html?from=groupmessage&isappinstalled=0)

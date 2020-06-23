@@ -103,6 +103,7 @@
 
 # 武汉大学
 【即日起至7月3日】[武汉大学测绘遥感信息工程国家重点实验室 2020年优秀大学生暑期夏令营活动](http://www.lmars.whu.edu.cn/index.php/zxdf/2882.html)
+【即日起至7月3日】[武汉大学计算机学院2020年优秀大学生线上夏令营实施细则](http://cs.whu.edu.cn/news_show.aspx?id=1295)
 
 # 西湖大学
 【即日起至7月5日24:00】[西湖大学2020年夏令营公告](https://www.westlake.edu.cn/info/1065/4741.htm)

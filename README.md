@@ -21,9 +21,9 @@
 
 【即日起至6月28日23:00】[清华大学深圳国际研究生院2020年计算机学科优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114882.jhtml)
 
-【即日起至6月25日】[计算机系夏令营2020报名通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/2020/20200616084711032785428/20200616084711032785428_.html)
+~~【报名截止】[计算机系夏令营2020报名通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/2020/20200616084711032785428/20200616084711032785428_.html)~~
 
-【即日起至6月25日】[清华大学网络研究院2020年全国优秀大学生夏令营预通知及报名通知](http://www.insc.tsinghua.edu.cn/publish/wyy/10757/2020/20200616111004778468493/20200616111004778468493_.html)
+~~【报名截止】[清华大学网络研究院2020年全国优秀大学生夏令营预通知及报名通知](http://www.insc.tsinghua.edu.cn/publish/wyy/10757/2020/20200616111004778468493/20200616111004778468493_.html)~~
 
 【即日起至6月30日23:00】[清华大学深圳国际研究生院2020年Open FIESTA优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114890.jhtml)
 
@@ -33,8 +33,10 @@
 
 ~~【报名截止】[北京大学信息科学技术学院关于举办2020年信息学科优秀大学生夏令营的通知（第二轮）](https://eecs.pku.edu.cn/info/1060/10515.htm)~~
 
+【即日起至7月11日】[北京大学信息工程学院关于举办“2020年全国优秀大学生夏令营”的通知](http://www.ece.pku.edu.cn/2020/anotice_0619/2304.html)
+
 # 上海交通大学
-【即日起至6月25日23:59】[上海交通大学密西根学院 2021年研究生招生夏令营报名通知](http://umji.sjtu.edu.cn/cn/news/2020-0605-1547/)
+~~【报名截止】[上海交通大学密西根学院 2021年研究生招生夏令营报名通知](http://umji.sjtu.edu.cn/cn/news/2020-0605-1547/)~~
 
 【即日起至7月6日】[上海交通大学电子信息与电气工程学院2021级研究生优秀生源选拔及夏令营通知](http://yjwb.seiee.sjtu.edu.cn/yjwb/info/16773.htm)
 
@@ -45,40 +47,46 @@
 
 【即日起至7月1日】[浙江大学计算机学院招收2020年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2020/0616/c26739a2155774/page.htm)
 
+【即日起至7月22日】[浙江大学工程师学院2020年云端“卓越工程师之旅”夏令营](http://pi.zju.edu.cn/index.php?c=Index&a=news_detail&id=3462)
+
+【即日起至7月2日】[浙江大学软件学院关于举办2020年优秀大学生线上夏令营活动的通知](http://www.cst.zju.edu.cn/2020/0618/c32178a2156875/page.htm)
+
 # 复旦大学
-【即日起6月20日晚24：00】[复旦大学类脑智能科学与技术研究院2020年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/NQdLEsVdG2cUzLfDwZadZg)
+~~【报名截止】[复旦大学类脑智能科学与技术研究院2020年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/NQdLEsVdG2cUzLfDwZadZg)~~
 
-【即日起至6月25日】[2020年大数据学院全国优秀大学生夏令营活动方案](https://sds.fudan.edu.cn/99/77/c17701a235895/page.htm)
+~~【报名截止】[2020年大数据学院全国优秀大学生夏令营活动方案](https://sds.fudan.edu.cn/99/77/c17701a235895/page.htm)~~
 
-【即日起至6月22日24点】[2020年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/9a/36/c13543a236086/page.htm)
+~~【报名截止】[2020年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/9a/36/c13543a236086/page.htm)~~
 
 
-【即日起至6月20日】[2020年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/M03lw2cFRdsAnlIwmnsaig)
+~~【报名截止】[2020年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/M03lw2cFRdsAnlIwmnsaig)~~
 
 # 南京大学
-【即日起至6月25日】[南京大学计算机科学与技术系暨人工智能学院2020年本科生开放日报名通知](https://cs.nju.edu.cn/55/67/c1654a480615/page.htm)
+~~【报名截止】[南京大学计算机科学与技术系暨人工智能学院2020年本科生开放日报名通知](https://cs.nju.edu.cn/55/67/c1654a480615/page.htm)~~
 
-【即日起至6月25日】[南京大学软件学院2020年优秀大学生夏令营通知](https://software.nju.edu.cn//tzgg/20200603/i108216.html)
+~~【报名截止】[南京大学软件学院2020年优秀大学生夏令营通知](https://software.nju.edu.cn//tzgg/20200603/i108216.html)~~
 
 # 中国科学院大学
 【截止时间待定】[中国科学院自动化研究所“人工智能”大学生暑期学校2020年招生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202005/t20200525_5585618.html)
 
 【即日起至6月30日】[2020年中国科学院大学沈阳计算所大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=136)
 
-【即日起至6月20日】[中科院计算所“计算未来”全国大学生计算技术暑期研修班预报名通知](http://www.ict.ac.cn/shye/tzgg/202006/t20200605_5602745.html)
+~~【报名截止】[中科院计算所“计算未来”全国大学生计算技术暑期研修班预报名通知](http://www.ict.ac.cn/shye/tzgg/202006/t20200605_5602745.html)~~`
 
 
 【即日起至7月12日】[中国科学院软件研究所2020年全国大学生“软件与网络”夏令营通知](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202006/t20200608_5603326.html)
 
-【即日起至6月25日】[中国科学院信息工程研究所2020年“网络空间安全技术”全国优秀大学生夏令营报名通知](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/202006/t20200608_5603225.html?from=timeline&isappinstalled=0)
+~~【报名截止】[中国科学院信息工程研究所2020年“网络空间安全技术”全国优秀大学生夏令营报名通知](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/202006/t20200608_5603225.html?from=timeline&isappinstalled=0)~~
 
 【即日起至7月1日】[中国科学院大学计算机网络信息中心2020年全国大学生“网络与计算”夏令营通知](http://www.cnic.cas.cn/yjsjy/tzgg/202006/t20200609_5603890.html)
 
-【即日起至6月24日】[中国科学院深圳先进技术研究院2020年数字所“优秀大学生夏令营”通知](http://szs.siat.ac.cn/content/viewContent.action?id=772)
+~~【报名截止】[中国科学院深圳先进技术研究院2020年数字所“优秀大学生夏令营”通知](http://szs.siat.ac.cn/content/viewContent.action?id=772)~~
 
 【即日起至7月3日】[中国科学院沈阳自动化研究所关于举办2020年“机器人与智能制造”优秀大学生夏令营通知](http://www.sia.cn/zpjy/yjsjy/zs/zsgg/202006/t20200611_5604416.html)
 
 【即日起至7月10日】[中科院上海高等研究院2020年大学生暑假夏令营活动通知](http://119.78.243.182/web/contentList.html?type=sszs&firstMenu=zssz&nsukey=nNSUWUo7renqGEFrATSN4k%2BZKNqImJmD5IIBTtX3OLR3wr1bmBG1OXwcslMAIJhdKjTaS4u0vLdoQDCwHWLwo9T6bcDMxeG9z9YJSapirbySlMQ4WjBR7UuyKCIXMZL3rG2BsnNICERUCy9CMDIL1MmHTgzo5dZHQvJ0Q8N2t3w%3D)
+
+【截止时间待定】[中国科学院深圳先进技术研究院 2020 年大学生学术夏令营招生简章](http://www.siat.ac.cn/yjsjy2016/zsjs2016/202006/P020200616637848539860.pdf)
 
 # 中国科学技术大学
 
@@ -89,11 +97,18 @@
 【即日起至6月29日】[2020年第七届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=713)
 
 # 中国人民大学
-【即日起至6月26日12:00】[中国人民大学信息学院“2020年优秀大学生线上夏令营”招生简章](https://mp.weixin.qq.com/s/CfWs2cLRZp44TAMTQkAlEg)
+~~【报名截止】[中国人民大学信息学院“2020年优秀大学生线上夏令营”招生简章](https://mp.weixin.qq.com/s/CfWs2cLRZp44TAMTQkAlEg)~~
 
 【即日起至7月5日12:00】[中国人民大学高瓴人工智能学院2020年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20200604001.html)
 
 # 北京航空航天大学
+
+【即日起至7月8日18：00】[北京航空航天大学计算机学院2020年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/6712.htm)
+
+# 武汉大学
+【即日起至7月3日】[武汉大学测绘遥感信息工程国家重点实验室 2020年优秀大学生暑期夏令营活动](http://www.lmars.whu.edu.cn/index.php/zxdf/2882.html)
+
+【即日起至7月3日】[武汉大学计算机学院2020年优秀大学生线上夏令营实施细则](http://cs.whu.edu.cn/news_show.aspx?id=1295)
 
 # 西湖大学
 【即日起至7月5日24:00】[西湖大学2020年夏令营公告](https://www.westlake.edu.cn/info/1065/4741.htm)
@@ -102,24 +117,25 @@
 【即日起至6月30日】[上海科技大学信息科学与技术学院 2020年优秀大学生夏令营报名通知](http://sist.shanghaitech.edu.cn/2020/0430/c2825a51766/page.htm)
 
 # 同济大学
-【即日起至6月25日】[同济大学2020年优秀学生暑期学校活动通知（持续更新中）](https://yz.tongji.edu.cn/info/1010/1871.htm)
+~~【报名截止】[同济大学2020年优秀学生暑期学校活动通知（持续更新中）](https://yz.tongji.edu.cn/info/1010/1871.htm)~~
+
 # 南开大学
-【即日起至6月25日】 [关于举办2020年南开大学 “e入计网”优秀大学生云端夏令营的通知](https://cc.nankai.edu.cn/2020/0601/c13297a275370/page.htm)
+~~【报名截止】[关于举办2020年南开大学 “e入计网”优秀大学生云端夏令营的通知](https://cc.nankai.edu.cn/2020/0601/c13297a275370/page.htm)~~
 
 【截止时间待定】[关于举办2020年南开大学人工智能学院优秀大学生夏令营的通知](https://ai.nankai.edu.cn/info/1024/3457.htm)
 
 【截止时间待定】[2020年南开大学网络空间安全学院接收推免生招生宣传](https://cc.nankai.edu.cn/2020/0526/c13297a274428/page.htm)
 
-【即日起至6月24日】[关于举办 2020年南开大学“活力软件”优秀大学生夏令营的通知](http://cs.nankai.edu.cn/info/1042/2717.htm)
+~~【报名截止】[关于举办 2020年南开大学“活力软件”优秀大学生夏令营的通知](http://cs.nankai.edu.cn/info/1042/2717.htm)~~
 
 
 
 # 华东师范大学
-【即日起至6月19日】[华东师范大学计算机科学与技术学院优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2020052620140156171650)
+~~【报名截止】[华东师范大学计算机科学与技术学院优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2020052620140156171650)~~
 
-【即日起至6月20日】[华东师范大学可信人工智能优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2020052920160157105925)
+~~【报名截止】[华东师范大学可信人工智能优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2020052920160157105925)~~
 
-【即日起至6月19日】[报名通知|华东师范大学第八届“云计算与大数据”优秀大学生夏令营即将开营](https://mp.weixin.qq.com/s?__biz=MzIxODAyMzYzMQ==&mid=2720887036&idx=1&sn=14a08f7c24f0c74dd47b8eb6f87bd40e&chksm=b029035c875e8a4a091082cdf3997fb75adec78fc10af053cfaa3f2bcb0769e37b40229f0c96&mpshare=1&scene=1&srcid=&sharer_sharetime=1591326647124&sharer_shareid=b189d1becf403e4977306b65ef226ca1&key=57473e4cb71c30cbc031e17b00f7faeb56f30f86cb29262d6f690a29926f5d017e3102fe38f3a37984cc78ef87adc10ba3ad7cd6f11d48a70474ee15d34667fcb092038df19b7d67ffcdd70b2b5ba7a3&ascene=1&uin=MjEyNTU4NDk2&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=AVQQWPdIP1mDKytP2RB0vcc%3D&pass_ticket=cVESYfklYtNtwm5%2BHHxJYHTPNjrvTAUhdca%2BVLJ98ls%3D)
+~~【报名截止】[报名通知|华东师范大学第八届“云计算与大数据”优秀大学生夏令营即将开营](https://mp.weixin.qq.com/s?__biz=MzIxODAyMzYzMQ==&mid=2720887036&idx=1&sn=14a08f7c24f0c74dd47b8eb6f87bd40e&chksm=b029035c875e8a4a091082cdf3997fb75adec78fc10af053cfaa3f2bcb0769e37b40229f0c96&mpshare=1&scene=1&srcid=&sharer_sharetime=1591326647124&sharer_shareid=b189d1becf403e4977306b65ef226ca1&key=57473e4cb71c30cbc031e17b00f7faeb56f30f86cb29262d6f690a29926f5d017e3102fe38f3a37984cc78ef87adc10ba3ad7cd6f11d48a70474ee15d34667fcb092038df19b7d67ffcdd70b2b5ba7a3&ascene=1&uin=MjEyNTU4NDk2&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=AVQQWPdIP1mDKytP2RB0vcc%3D&pass_ticket=cVESYfklYtNtwm5%2BHHxJYHTPNjrvTAUhdca%2BVLJ98ls%3D)~~
 
 
 # 上海财经大学
@@ -135,13 +151,13 @@
 # 四川大学
 【截止时间待定】[四川大学2020年优秀大学生暑期夏令营即将拉开序幕](https://yz.scu.edu.cn/zsxx/Details/8f57f3ea-ce28-4657-a137-4fbab52615e6)
 
-【即日起至6月24日】[四川大学计算机（软件）学院2020年优秀大学生暑期云夏令营招生简章](http://cs.scu.edu.cn/info/1067/9695.htm)
+~~【报名截止】[四川大学计算机（软件）学院2020年优秀大学生暑期云夏令营招生简章](http://cs.scu.edu.cn/info/1067/9695.htm)~~
 
 
 # 山东大学
-【即日起至6月26日】[山东大学计算机学院2020年全国优秀大学生暑期夏令营活动](https://www.cs.sdu.edu.cn/info/1068/4094.htm)
+~~【报名截止】[山东大学计算机学院2020年全国优秀大学生暑期夏令营活动](https://www.cs.sdu.edu.cn/info/1068/4094.htm)~~
 
-【即日起至6月26日】[关于网络空间安全学院（研究院）举办2020年全国优秀大学生暑期夏令营活动的通知](http://www.cst.qd.sdu.edu.cn/info/1018/2053.htm)
+~~【报名截止】[关于网络空间安全学院（研究院）举办2020年全国优秀大学生暑期夏令营活动的通知](http://www.cst.qd.sdu.edu.cn/info/1018/2053.htm)~~
 
 【即日起至7月6日】[山东大学机电与信息工程学院2020年全国优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/cJf-VwfAiMjejWPZ_nm12g)
 
@@ -151,24 +167,29 @@
 # 北京师范大学
 【即日起至6月30日】[北京师范大学人工智能学院 2020年优秀大学生夏令营](https://cist.bnu.edu.cn/xyxw/95741.html)
 
+【即日起至6月27日】[中文信息处理研究所2020年暑期夏令营活动启动](http://icip.bnu.edu.cn/index.php?action=page&pid=news&id=45)
+
 
 # 天津大学
 【即日起至6月28日】[天津大学智能与计算学部 2021级研究生招生夏令营](http://cic.tju.edu.cn/info/1041/2894.htm)
 
 # 西北工业大学
-【即日起至6月25日】[西北工业大学网络空间安全学院2020年大学生暑期夏令营](http://wlkjaqxy.nwpu.edu.cn/info/1044/1306.htm)
+~~【报名截止】[西北工业大学网络空间安全学院2020年大学生暑期夏令营](http://wlkjaqxy.nwpu.edu.cn/info/1044/1306.htm)~~
+
+【即日起至6月30日】[西北工业大学软件学院2020年全国优秀大学生暑期夏令营招生简章](http://ruanjian.nwpu.edu.cn/info/1140/7267.htm)
 
 # 中山大学
-【即日起至6月26日24:00】[中山大学数据科学与计算机学院2020年优秀大学生夏令营活动报名通知](http://sdcs.sysu.edu.cn/content/5321)
+~~【报名截止】[中山大学数据科学与计算机学院2020年优秀大学生夏令营活动报名通知](http://sdcs.sysu.edu.cn/content/5321)~~
 
 # 吉林大学
-【即日起至6月21日】[人工智能学院关于举办2020年优秀大学生夏令营的通知](http://sai.jlu.edu.cn/info/1065/1593.htm)
+~~【报名截止】[人工智能学院关于举办2020年优秀大学生夏令营的通知](http://sai.jlu.edu.cn/info/1065/1593.htm)~~
 
-# 天津大学
-【即日起至6月28日】[天津大学智能与计算学部2021级研究生招生夏令营活动通知](http://cic.tju.edu.cn/info/1041/2894.htm)
+【即日起至6月29日】[2020年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1092/11847.htm)
 
 # 中南大学
 【即日起至6月30日】[关于举办“中南大学2021年优秀大学生提前面试”活动的通知](http://gra.csu.edu.cn/wjtzxq117870_1_2.html?from=groupmessage&isappinstalled=0)
+
+【即日起至6月30日】[中南大学计算机学院2021年优秀大学生提前面试活动的通知](http://cse.csu.edu.cn/info/1040/3476.htm)
 
 # 东华大学
 【即日起至6月28日24点】[东华大学信息科学与技术学院2020年全国优秀大学生夏令营活动通知](http://web.dhu.edu.cn/cist/b1/5f/c3004a242015/page.htm)
@@ -176,5 +197,32 @@
 # 华中科技大学
 【即日起至6月30日】[华中科技大学武汉光电国家研究中心“2020年全国优秀大学生暑期夏令营”报名申请正式启动](http://wnlo.hust.edu.cn/info/1172/6872.htm)
 
+【即日起至7月8日】[网络空间安全学院2020年优秀大学生夏令营通知](http://cse.hust.edu.cn/info/1029/1511.htm)
+
 # 中国海洋大学
 【即日起至6月28日】[关于举办2020年大学生夏令营活动的通知](http://it.ouc.edu.cn/2020/0616/c16066a290635/page.htm)
+
+# 哈尔滨工业大学(深圳)
+【即日起至6月30日】[哈尔滨工业大学（深圳）计算机科学与技术学院2021年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/2441.htm)
+
+# 网安国际学术论坛InForSec
+【即日起至7月5日】[InForSec“走进蚂蚁集团”——网络空间安全2020年大学生夏令营活动](https://www.inforsec.org/wp/?p=3966)
+
+# 北京交通大学
+【即日起至7月3日】[2020年北京交通大学计算机与信息技术学院全国优秀大学生暑期夏令营选拔通知](http://scit.bjtu.edu.cn/cms/item/4582.html)
+
+# 厦门大学
+【即日起至6月30日】[信息学院2020年暑期夏令营报名指南](https://information.xmu.edu.cn/info/1050/15364.htm)
+
+# 南京邮电大学
+【即日起至7月20日】[关于举办2020 年江苏省研究生“智慧物联网与网络空间安全”暑期学校的通知](http://pg.njupt.edu.cn/2020/0619/c1049a167245/page.htm)
+
+# 西安邮电大学
+【即日起至6月30日】[关于举办2020年“优秀大学生夏令营”的公告](http://cs.xupt.edu.cn:81/xiyoucs/showarticle.asp?ArticleID=2707)
+
+# 西安交通大学
+【即日起至7月5日】[西安交通大学电信学部软件学院2020年（第四届）全国优秀大学生夏令营通知](http://se.xjtu.edu.cn/info/1038/2375.htm)
+
+
+### 查看更多保研信息与干货分享，请关注公众号--CS引路人:
+![](https://s1.ax1x.com/2020/06/17/NA78XQ.png)

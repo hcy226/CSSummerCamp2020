@@ -110,6 +110,8 @@
 
 【即日起至7月3日】[武汉大学计算机学院2020年优秀大学生线上夏令营实施细则](http://cs.whu.edu.cn/news_show.aspx?id=1295)
 
+【即日起至7月4日】[武汉大学国家网络安全学院2020年优秀大学生线上夏令营活动实施方案](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/546.html)
+
 # 西湖大学
 【即日起至7月5日24:00】[西湖大学2020年夏令营公告](https://www.westlake.edu.cn/info/1065/4741.htm)
 

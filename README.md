@@ -169,7 +169,7 @@
 # 北京师范大学
 【即日起至6月30日】[北京师范大学人工智能学院 2020年优秀大学生夏令营](https://cist.bnu.edu.cn/xyxw/95741.html)
 
-【即日起至6月27日】[中文信息处理研究所2020年暑期夏令营活动启动](http://icip.bnu.edu.cn/index.php?action=page&pid=news&id=45)
+~~【报名截止】[中文信息处理研究所2020年暑期夏令营活动启动](http://icip.bnu.edu.cn/index.php?action=page&pid=news&id=45)~~
 
 
 # 天津大学

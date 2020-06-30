@@ -13,7 +13,7 @@
 
 【即日起至7月1日】[清华大学深圳国际研究生院2020年电子信息（互动媒体设计与技术）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114831.jhtml)
 
-【即日起至6月29日23:00】[清华大学深圳国际研究生院2020年电子信息（大数据工程）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114832.jhtml)
+~~【报名截止】[清华大学深圳国际研究生院2020年电子信息（大数据工程）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114832.jhtml)~~
 
 【即日起至7月1日24:00】[清华大学深圳国际研究生院2020年电子与通信工程项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114862.jhtml?from=timeline&isappinstalled=0)
 
@@ -94,7 +94,7 @@
 
 【即日起至6月30日】[2020年第三届大数据科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=727)
 
-【即日起至6月29日】[2020年第七届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=713)
+~~【报名截止】[2020年第七届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=713)~~
 
 # 中国人民大学
 ~~【报名截止】[中国人民大学信息学院“2020年优秀大学生线上夏令营”招生简章](https://mp.weixin.qq.com/s/CfWs2cLRZp44TAMTQkAlEg)~~
@@ -186,7 +186,7 @@
 # 吉林大学
 ~~【报名截止】[人工智能学院关于举办2020年优秀大学生夏令营的通知](http://sai.jlu.edu.cn/info/1065/1593.htm)~~
 
-【即日起至6月29日】[2020年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1092/11847.htm)
+~~【报名截止】[2020年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1092/11847.htm)~~
 
 # 中南大学
 【即日起至6月30日】[关于举办“中南大学2021年优秀大学生提前面试”活动的通知](http://gra.csu.edu.cn/wjtzxq117870_1_2.html?from=groupmessage&isappinstalled=0)

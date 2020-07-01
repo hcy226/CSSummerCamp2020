@@ -11,11 +11,11 @@
 
 ~~【报名截止】[关于举办清华大学第三届（2020年）全国优秀大学生“计算法学”主题夏令营的公告](http://www.law.tsinghua.edu.cn/publish/law/3568/2020/20200515164740201892816/20200515164740201892816_.html)~~
 
-【即日起至7月1日】[清华大学深圳国际研究生院2020年电子信息（互动媒体设计与技术）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114831.jhtml)
+~~【报名截止】[清华大学深圳国际研究生院2020年电子信息（互动媒体设计与技术）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114831.jhtml)~~
 
 ~~【报名截止】[清华大学深圳国际研究生院2020年电子信息（大数据工程）项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114832.jhtml)~~
 
-【即日起至7月1日24:00】[清华大学深圳国际研究生院2020年电子与通信工程项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114862.jhtml?from=timeline&isappinstalled=0)
+~~【报名截止】[清华大学深圳国际研究生院2020年电子与通信工程项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114862.jhtml?from=timeline&isappinstalled=0)~~
 
 ~~【报名截止】[清华大学深圳国际研究生院2020年人工智能项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/xlybmtd/114864.jhtml)~~
 
@@ -45,7 +45,7 @@
 # 浙江大学
 ~~【报名截止】[浙江大学信息与电子工程学院2020年全国优秀大学生暑期学术夏令营活动通知](http://www.isee.zju.edu.cn/2020/0608/c21124a2149269/page.htm)~~
 
-【即日起至7月1日】[浙江大学计算机学院招收2020年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2020/0616/c26739a2155774/page.htm)
+~~【报名截止】[浙江大学计算机学院招收2020年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2020/0616/c26739a2155774/page.htm)~~
 
 【即日起至7月22日】[浙江大学工程师学院2020年云端“卓越工程师之旅”夏令营](http://pi.zju.edu.cn/index.php?c=Index&a=news_detail&id=3462)
 
@@ -78,7 +78,7 @@
 
 ~~【报名截止】[中国科学院信息工程研究所2020年“网络空间安全技术”全国优秀大学生夏令营报名通知](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/202006/t20200608_5603225.html?from=timeline&isappinstalled=0)~~
 
-【即日起至7月1日】[中国科学院大学计算机网络信息中心2020年全国大学生“网络与计算”夏令营通知](http://www.cnic.cas.cn/yjsjy/tzgg/202006/t20200609_5603890.html)
+~~【报名截止】[中国科学院大学计算机网络信息中心2020年全国大学生“网络与计算”夏令营通知](http://www.cnic.cas.cn/yjsjy/tzgg/202006/t20200609_5603890.html)~~
 
 ~~【报名截止】[中国科学院深圳先进技术研究院2020年数字所“优秀大学生夏令营”通知](http://szs.siat.ac.cn/content/viewContent.action?id=772)~~
 
@@ -163,7 +163,7 @@
 
 【即日起至7月6日】[山东大学机电与信息工程学院2020年全国优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/cJf-VwfAiMjejWPZ_nm12g)
 
-【即日起至7月1日】[山东大学软件学院“2020年全国优秀大学生暑期夏令营”](https://www.sc.sdu.edu.cn/info/1016/3750.htm)
+~~【报名截止】[山东大学软件学院“2020年全国优秀大学生暑期夏令营”](https://www.sc.sdu.edu.cn/info/1016/3750.htm)~~
 
 
 # 北京师范大学
@@ -243,7 +243,7 @@
 
 【即日起至7月4日中午12：00】[信息与软件工程学院第四届“软件工程” 全国优秀大学生暑期夏令营通知](http://www.ss.uestc.edu.cn/notice.do?id=9728)
 
-【即日起至7月1日】[电子科技大学2020年第五届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](http://www.iffs.uestc.edu.cn/info/1032/3232.htm)
+~~【报名截止】[电子科技大学2020年第五届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](http://www.iffs.uestc.edu.cn/info/1032/3232.htm)~~
 
 
 # 计算机保研交流群

@@ -82,7 +82,7 @@
 
 ~~【报名截止】[中国科学院深圳先进技术研究院2020年数字所“优秀大学生夏令营”通知](http://szs.siat.ac.cn/content/viewContent.action?id=772)~~
 
-【即日起至7月3日】[中国科学院沈阳自动化研究所关于举办2020年“机器人与智能制造”优秀大学生夏令营通知](http://www.sia.cn/zpjy/yjsjy/zs/zsgg/202006/t20200611_5604416.html)
+~~【报名截止】[中国科学院沈阳自动化研究所关于举办2020年“机器人与智能制造”优秀大学生夏令营通知](http://www.sia.cn/zpjy/yjsjy/zs/zsgg/202006/t20200611_5604416.html)~~
 
 【即日起至7月10日】[中科院上海高等研究院2020年大学生暑假夏令营活动通知](http://119.78.243.182/web/contentList.html?type=sszs&firstMenu=zssz&nsukey=nNSUWUo7renqGEFrATSN4k%2BZKNqImJmD5IIBTtX3OLR3wr1bmBG1OXwcslMAIJhdKjTaS4u0vLdoQDCwHWLwo9T6bcDMxeG9z9YJSapirbySlMQ4WjBR7UuyKCIXMZL3rG2BsnNICERUCy9CMDIL1MmHTgzo5dZHQvJ0Q8N2t3w%3D)
 

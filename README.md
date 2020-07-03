@@ -106,9 +106,9 @@
 【即日起至7月8日18：00】[北京航空航天大学计算机学院2020年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/6712.htm)
 
 # 武汉大学
-【即日起至7月3日】[武汉大学测绘遥感信息工程国家重点实验室 2020年优秀大学生暑期夏令营活动](http://www.lmars.whu.edu.cn/index.php/zxdf/2882.html)
+~~【报名截止】[武汉大学测绘遥感信息工程国家重点实验室 2020年优秀大学生暑期夏令营活动](http://www.lmars.whu.edu.cn/index.php/zxdf/2882.html)~~
 
-【即日起至7月3日】[武汉大学计算机学院2020年优秀大学生线上夏令营实施细则](http://cs.whu.edu.cn/news_show.aspx?id=1295)
+~~【报名截止】[武汉大学计算机学院2020年优秀大学生线上夏令营实施细则](http://cs.whu.edu.cn/news_show.aspx?id=1295)~~
 
 【即日起至7月4日】[武汉大学国家网络安全学院2020年优秀大学生线上夏令营活动实施方案](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/546.html)
 
@@ -213,7 +213,7 @@
 【即日起至7月5日】[InForSec“走进蚂蚁集团”——网络空间安全2020年大学生夏令营活动](https://www.inforsec.org/wp/?p=3966)
 
 # 北京交通大学
-【即日起至7月3日】[2020年北京交通大学计算机与信息技术学院全国优秀大学生暑期夏令营选拔通知](http://scit.bjtu.edu.cn/cms/item/4582.html)
+~~【报名截止】[2020年北京交通大学计算机与信息技术学院全国优秀大学生暑期夏令营选拔通知](http://scit.bjtu.edu.cn/cms/item/4582.html)~~
 
 # 厦门大学
 ~~【报名截止】[信息学院2020年暑期夏令营报名指南](https://information.xmu.edu.cn/info/1050/15364.htm)~~
@@ -241,7 +241,7 @@
 # 电子科技大学
 【即日起至7月8日】[电子科技大学2020年“计算机（网安）”全国优秀大学生暑期夏令营通知](http://www.scse.uestc.edu.cn/info/1015/9369.htm)
 
-【即日起至7月4日中午12：00】[信息与软件工程学院第四届“软件工程” 全国优秀大学生暑期夏令营通知](http://www.ss.uestc.edu.cn/notice.do?id=9728)
+【即日起至7月4日12：00】[信息与软件工程学院第四届“软件工程” 全国优秀大学生暑期夏令营通知](http://www.ss.uestc.edu.cn/notice.do?id=9728)
 
 ~~【报名截止】[电子科技大学2020年第五届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](http://www.iffs.uestc.edu.cn/info/1032/3232.htm)~~
 

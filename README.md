@@ -49,7 +49,7 @@
 
 【即日起至7月22日】[浙江大学工程师学院2020年云端“卓越工程师之旅”夏令营](http://pi.zju.edu.cn/index.php?c=Index&a=news_detail&id=3462)
 
-【即日起至7月2日】[浙江大学软件学院关于举办2020年优秀大学生线上夏令营活动的通知](http://www.cst.zju.edu.cn/2020/0618/c32178a2156875/page.htm)
+~~【报名截止】[浙江大学软件学院关于举办2020年优秀大学生线上夏令营活动的通知](http://www.cst.zju.edu.cn/2020/0618/c32178a2156875/page.htm)~~
 
 # 复旦大学
 ~~【报名截止】[复旦大学类脑智能科学与技术研究院2020年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/NQdLEsVdG2cUzLfDwZadZg)~~

@@ -61,6 +61,8 @@
 
 ~~【报名截止】[2020年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/M03lw2cFRdsAnlIwmnsaig)~~
 
+*预推免*【7月20日至8月30日】[复旦大学计算机科学技术学院 2021 年推免生预选拔报名通知](http://www.cs.fudan.edu.cn/?p=31102)
+
 # 南京大学
 ~~【报名截止】[南京大学计算机科学与技术系暨人工智能学院2020年本科生开放日报名通知](https://cs.nju.edu.cn/55/67/c1654a480615/page.htm)~~
 
@@ -247,6 +249,7 @@
 
 # 华南理工大学
 【即日起至7月10日】[软件学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8347086C62C745F468176C4C3084551FB9532C330F8B2CA28924102798532715A68783E69809AE14222A8715AB59BFECA58)
+【即日起至7月9日】[华南理工大学电子与信息学院2020年优秀大学生暑期线上夏令营报名通知](https://mp.weixin.qq.com/s/jv5vMK4gK0Ss0zInWZ0bDQ)
 
 
 # 计算机保研交流群

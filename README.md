@@ -246,8 +246,11 @@
 ~~【报名截止】[电子科技大学2020年第五届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](http://www.iffs.uestc.edu.cn/info/1032/3232.htm)~~
 
 # 华南理工大学
-【即日起至7月10日】[软件学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8347086C62C745F468176C4C3084551FB9532C330F8B2CA28924102798532715A68783E69809AE14222A8715AB59BFECA58)
+【即日起至7月12日24时】[软件学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8347086C62C745F468176C4C3084551FB9532C330F8B2CA28924102798532715A68783E69809AE14222A8715AB59BFECA58)
 
+
+# 大连理工大学
+【即日起至7月10日】[大连理工大学软件学院2020年优秀大学生学术夏令营通知](http://ssdut.dlut.edu.cn/info/1122/18485.htm)
 
 # 计算机保研交流群
 在各位同学们的无私捐助下，计算机保研交流群（605176069）目前已经拓展成3000人群，本群为非盈利性质，欢迎想要交流保研信息的同学和分享保研经历的学长学姐们加入~

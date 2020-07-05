@@ -100,7 +100,7 @@
 # 中国人民大学
 ~~【报名截止】[中国人民大学信息学院“2020年优秀大学生线上夏令营”招生简章](https://mp.weixin.qq.com/s/CfWs2cLRZp44TAMTQkAlEg)~~
 
-【即日起至7月5日12:00】[中国人民大学高瓴人工智能学院2020年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20200604001.html)
+~~【报名截止】[中国人民大学高瓴人工智能学院2020年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20200604001.html)~~
 
 # 北京航空航天大学
 
@@ -111,7 +111,7 @@
 
 ~~【报名截止】[武汉大学计算机学院2020年优秀大学生线上夏令营实施细则](http://cs.whu.edu.cn/news_show.aspx?id=1295)~~
 
-【即日起至7月4日】[武汉大学国家网络安全学院2020年优秀大学生线上夏令营活动实施方案](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/546.html)
+~~【报名截止】[武汉大学国家网络安全学院2020年优秀大学生线上夏令营活动实施方案](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/546.html)~~
 
 # 西湖大学
 【即日起至7月5日24:00】[西湖大学2020年夏令营公告](https://www.westlake.edu.cn/info/1065/4741.htm)
@@ -242,7 +242,7 @@
 # 电子科技大学
 【即日起至7月8日】[电子科技大学2020年“计算机（网安）”全国优秀大学生暑期夏令营通知](http://www.scse.uestc.edu.cn/info/1015/9369.htm)
 
-【即日起至7月4日12：00】[信息与软件工程学院第四届“软件工程” 全国优秀大学生暑期夏令营通知](http://www.ss.uestc.edu.cn/notice.do?id=9728)
+~~【报名截止】[信息与软件工程学院第四届“软件工程” 全国优秀大学生暑期夏令营通知](http://www.ss.uestc.edu.cn/notice.do?id=9728)~~
 
 ~~【报名截止】[电子科技大学2020年第五届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](http://www.iffs.uestc.edu.cn/info/1032/3232.htm)~~
 
@@ -255,6 +255,15 @@
 
 【即日起至7月9日】[华南理工大学电子与信息学院2020年优秀大学生暑期线上夏令营报名通知](https://mp.weixin.qq.com/s/jv5vMK4gK0Ss0zInWZ0bDQ)
 
+【即日起至7月12日24时】[软件学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8347086C62C745F468176C4C3084551FB9532C330F8B2CA28924102798532715A68783E69809AE14222A8715AB59BFECA58)
+
+# 云南大学
+
+【即日起至7月13日】[云南大学软件学院2020年全国优秀大学生夏令营活动报名通知](http://www.sei.ynu.edu.cn/info/1056/1547.htm)
+
+
+# 大连理工大学
+【即日起至7月10日】[大连理工大学软件学院2020年优秀大学生学术夏令营通知](http://ssdut.dlut.edu.cn/info/1122/18485.htm)
 
 # 计算机保研交流群
 在各位同学们的无私捐助下，计算机保研交流群（605176069）目前已经拓展成3000人群，本群为非盈利性质，欢迎想要交流保研信息的同学和分享保研经历的学长学姐们加入~

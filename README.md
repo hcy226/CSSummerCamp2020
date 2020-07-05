@@ -248,6 +248,7 @@
 
 # 华南理工大学
 【即日起至7月10日】[软件学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8347086C62C745F468176C4C3084551FB9532C330F8B2CA28924102798532715A68783E69809AE14222A8715AB59BFECA58)
+
 【即日起至7月9日】[华南理工大学电子与信息学院2020年优秀大学生暑期线上夏令营报名通知](https://mp.weixin.qq.com/s/jv5vMK4gK0Ss0zInWZ0bDQ)
 
 

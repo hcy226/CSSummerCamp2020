@@ -233,6 +233,8 @@
 # 东南大学
 【即日起至7月15日】[网络空间安全学院2021年推免生预选拔工作通知](https://cyber.seu.edu.cn/2020/0628/c18223a337222/page.htm)
 
+【即日起至7月31日】[计算机科学与工程学院2020年优秀大学生夏令营活动暨2021年推免生预选拔工作通知](https://cse.seu.edu.cn/2020/0707/c22646a338919/page.htm)
+
 # 国防科技大学
 【即日起至7月10日】[关于开展2020年优秀大学生“云夏令营”活动的通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=772)
 

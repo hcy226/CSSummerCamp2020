@@ -75,7 +75,7 @@
 ~~【报名截止】[中科院计算所“计算未来”全国大学生计算技术暑期研修班预报名通知](http://www.ict.ac.cn/shye/tzgg/202006/t20200605_5602745.html)~~`
 
 
-【即日起至7月12日】[中国科学院软件研究所2020年全国大学生“软件与网络”夏令营通知](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202006/t20200608_5603326.html)
+~~【报名截止】[中国科学院软件研究所2020年全国大学生“软件与网络”夏令营通知](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202006/t20200608_5603326.html)~~
 
 ~~【报名截止】[中国科学院信息工程研究所2020年“网络空间安全技术”全国优秀大学生夏令营报名通知](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/202006/t20200608_5603225.html?from=timeline&isappinstalled=0)~~
 
@@ -87,7 +87,7 @@
 
 ~~【报名截止】[中科院上海高等研究院2020年大学生暑假夏令营活动通知](http://119.78.243.182/web/contentList.html?type=sszs&firstMenu=zssz&nsukey=nNSUWUo7renqGEFrATSN4k%2BZKNqImJmD5IIBTtX3OLR3wr1bmBG1OXwcslMAIJhdKjTaS4u0vLdoQDCwHWLwo9T6bcDMxeG9z9YJSapirbySlMQ4WjBR7UuyKCIXMZL3rG2BsnNICERUCy9CMDIL1MmHTgzo5dZHQvJ0Q8N2t3w%3D)~~
 
-【截止时间待定】[中国科学院深圳先进技术研究院 2020 年大学生学术夏令营招生简章](http://www.siat.ac.cn/yjsjy2016/zsjs2016/202006/P020200616637848539860.pdf)
+~~【报名截止】[中国科学院深圳先进技术研究院 2020 年大学生学术夏令营招生简章](http://www.siat.ac.cn/yjsjy2016/zsjs2016/202006/P020200616637848539860.pdf)~~
 
 # 中国科学技术大学
 
@@ -152,7 +152,7 @@
 
 
 # 四川大学
-【截止时间待定】[四川大学2020年优秀大学生暑期夏令营即将拉开序幕](https://yz.scu.edu.cn/zsxx/Details/8f57f3ea-ce28-4657-a137-4fbab52615e6)
+~~【报名截止】[四川大学2020年优秀大学生暑期夏令营即将拉开序幕](https://yz.scu.edu.cn/zsxx/Details/8f57f3ea-ce28-4657-a137-4fbab52615e6)~~
 
 ~~【报名截止】[四川大学计算机（软件）学院2020年优秀大学生暑期云夏令营招生简章](http://cs.scu.edu.cn/info/1067/9695.htm)~~
 
@@ -202,7 +202,7 @@
 
 ~~【报名截止】[网络空间安全学院2020年优秀大学生夏令营通知](http://cse.hust.edu.cn/info/1029/1511.htm)~~
 
-【即日起至7月12日】[关于举办“2020年华中科技大学计算机学院优秀大学生夏令营”活动的通知](http://cs.hust.edu.cn/info/1102/2674.htm)
+~~【报名截止】[关于举办“2020年华中科技大学计算机学院优秀大学生夏令营”活动的通知](http://cs.hust.edu.cn/info/1102/2674.htm)~~
 
 # 中国海洋大学
 ~~【报名截止】[关于举办2020年大学生夏令营活动的通知](http://it.ouc.edu.cn/2020/0616/c16066a290635/page.htm)~~
@@ -249,19 +249,19 @@
 ~~【报名截止】[电子科技大学2020年第五届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](http://www.iffs.uestc.edu.cn/info/1032/3232.htm)~~
 
 # 华南理工大学
-【各学院不同日期】[华南理工大学2020年夏令营各学院招募方案](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
+~~【报名截止】[华南理工大学2020年夏令营各学院招募方案](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)~~
 
-【即日起至7月12日】[计算机科学与工程学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8343CF71CF62BE6E7F9DDB51D83C92BC1E2C460A7AD64A76EFE07CFC9AE6D7BEDA834646861A78430FF120B8A002CDA989A)
+~~【报名截止】[计算机科学与工程学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8343CF71CF62BE6E7F9DDB51D83C92BC1E2C460A7AD64A76EFE07CFC9AE6D7BEDA834646861A78430FF120B8A002CDA989A)~~
 
 ~~【报名截止】[软件学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8347086C62C745F468176C4C3084551FB95901CE046F9A23763A4282E6E1FAEE7B9711A6D1F6AB89F11736966B5EE47FA5B)~~
 
 ~~【报名截止】[华南理工大学电子与信息学院2020年优秀大学生暑期线上夏令营报名通知](https://mp.weixin.qq.com/s/jv5vMK4gK0Ss0zInWZ0bDQ)~~
 
-【即日起至7月12日24时】[软件学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8347086C62C745F468176C4C3084551FB9532C330F8B2CA28924102798532715A68783E69809AE14222A8715AB59BFECA58)
+~~【报名截止】[软件学院2020年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8347086C62C745F468176C4C3084551FB9532C330F8B2CA28924102798532715A68783E69809AE14222A8715AB59BFECA58)~~
 
 # 云南大学
 
-【即日起至7月13日】[云南大学软件学院2020年全国优秀大学生夏令营活动报名通知](http://www.sei.ynu.edu.cn/info/1056/1547.htm)
+【报名截止】[云南大学软件学院2020年全国优秀大学生夏令营活动报名通知](http://www.sei.ynu.edu.cn/info/1056/1547.htm)
 
 
 # 大连理工大学
@@ -271,7 +271,7 @@
 【即日起至7月16日】[关于举办哈尔滨工业大学计算学部暑期夏令营通知](http://cs.hit.edu.cn/2020/0706/c11271a243717/page.htm)
 
 # 北京工业大学
-【即日起至7月12日】[关于举办2020年（第九届）北京工业大学全国优秀大学生科技夏令营的通知](http://yanzhao.bjut.edu.cn/ggl/2020630/15934956472719966_1.html)
+~~【报名截止】[关于举办2020年（第九届）北京工业大学全国优秀大学生科技夏令营的通知](http://yanzhao.bjut.edu.cn/ggl/2020630/15934956472719966_1.html)~~
 # 北京工商大学
 【即日起至7月27日】[2020年北京工商大学人工智能学院全国优秀大学生暑期云夏令营招生通知](http://lxy.btbu.edu.cn/tzgg/175467.htm)
 

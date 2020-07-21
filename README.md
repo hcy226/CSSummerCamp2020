@@ -220,7 +220,7 @@
 ~~【报名截止】[信息学院2020年暑期夏令营报名指南](https://information.xmu.edu.cn/info/1050/15364.htm)~~
 
 # 南京邮电大学
-【即日起至7月20日】[关于举办2020 年江苏省研究生“智慧物联网与网络空间安全”暑期学校的通知](http://pg.njupt.edu.cn/2020/0619/c1049a167245/page.htm)
+~~【报名截止】[关于举办2020 年江苏省研究生“智慧物联网与网络空间安全”暑期学校的通知](http://pg.njupt.edu.cn/2020/0619/c1049a167245/page.htm)~~
 
 # 西安邮电大学
 ~~【报名截止】[关于举办2020年“优秀大学生夏令营”的公告](http://cs.xupt.edu.cn:81/xiyoucs/showarticle.asp?ArticleID=2707)~~
@@ -277,7 +277,7 @@
 【即日起至7月27日】[2020年北京工商大学人工智能学院全国优秀大学生暑期云夏令营招生通知](http://lxy.btbu.edu.cn/tzgg/175467.htm)
 
 # 东莞理工学院
-【即日起至7月20日】[东莞理工学院第二期全国优秀大学生夏令营招募通知](https://mp.weixin.qq.com/s/Iy4zJCgwj3Asgpctk8RYCw)
+~~【报名截止】[东莞理工学院第二期全国优秀大学生夏令营招募通知](https://mp.weixin.qq.com/s/Iy4zJCgwj3Asgpctk8RYCw)~~
 
 # 北京理工大学
 ~~【报名截止】[2020年北京理工大学计算机学院暑期学术夏令营通知](http://cs.bit.edu.cn/tzgg/181897.htm)~~

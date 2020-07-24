@@ -47,7 +47,7 @@
 
 ~~【报名截止】[浙江大学计算机学院招收2020年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2020/0616/c26739a2155774/page.htm)~~
 
-【即日起至7月22日】[浙江大学工程师学院2020年云端“卓越工程师之旅”夏令营](http://pi.zju.edu.cn/index.php?c=Index&a=news_detail&id=3462)
+~~【报名截止】[浙江大学工程师学院2020年云端“卓越工程师之旅”夏令营](http://pi.zju.edu.cn/index.php?c=Index&a=news_detail&id=3462)~~
 
 ~~【报名截止】[浙江大学软件学院关于举办2020年优秀大学生线上夏令营活动的通知](http://www.cst.zju.edu.cn/2020/0618/c32178a2156875/page.htm)~~
 
